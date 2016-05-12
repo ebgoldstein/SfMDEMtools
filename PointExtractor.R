@@ -1,3 +1,6 @@
+#Writen by EBG
+#The MIT License (MIT)
+#Copyright (c) 2016 Evan B. Goldstein
 
 #This part of the code lodes the neccesary libraries
 library(sp)
